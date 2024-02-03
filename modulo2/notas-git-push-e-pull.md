@@ -1,7 +1,7 @@
 # Notas de Aula Referente ao Módulo 2 do Curso: Git e GitHub da WomarksCode 2024
 
 
-# Comando Git Push e Pull
+# Comando git push e pull
 
 ## Git Push
 
