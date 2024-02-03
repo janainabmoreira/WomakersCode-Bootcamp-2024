@@ -3,8 +3,6 @@
 
 ## Comando Git commit
 
-A função principal do **git add** é atualizar o índice com as alterações feitas nos arquivos do repositório para que essas mudanças possam ser incluídas no próximo commit.
+o **git commit** é fundamental para registrar as alterações em um repositório Git, tornando a história do projeto rastreável e fornecendo uma maneira de documentar as mudanças realizadas.
 
-## git add . ##
-Adicionar todos os arquivos modificados e novos no diretório de trabalho
 
